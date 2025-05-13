@@ -1,8 +1,8 @@
 # English-to-Chinese Translator 🌐🈶
 
-This is a simple web app that translates English words or sentences into Chinese characters and pinyin, while also providing an image and pronunciation audio.
+This simple web app translates English words or sentences into Chinese characters and pinyin, while providing an image and pronunciation audio.
 
-## Futue Features
+## Future Features
 - ✍️ Input English text
 - 🈸 Get Chinese translation with pinyin
 - 🖼️ Visual representation using AI image generation
