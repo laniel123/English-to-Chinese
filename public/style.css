@@ -1,0 +1,75 @@
+/* 
+  Dark Theme CSS adapted from Reddit user u/CptSoban 
+  Source: https://www.reddit.com/r/duolingo/comments/6dku03/duolingo_dark_themecustom_css/
+  Adapted for: English-to-Chinese Translator Web App
+  Modified by: [Your Name Here]
+*/
+
+body {
+  background-color: #000;
+  color: #aaa;
+  font-family: Arial, sans-serif;
+  overflow-x: visible;
+}
+
+h1, h2, h3, p, input, button, span {
+  color: #aaa;
+}
+
+h1 {
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 3rem;
+  color: #2c3e50;
+  text-align: center;
+  margin: 40px 0;
+}
+
+.container {
+  width: 90vw;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input#englishInput {
+  width: 80%;
+  padding: 10px;
+  font-size: 1.2rem;
+  background-color: #111;
+  border: none;
+  color: #fff;
+}
+
+button#translateBtn, button#playAudio {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #222;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button#translateBtn:hover, button#playAudio:hover {
+  background-color: #333;
+}
+
+img#resultImage {
+  margin-top: 20px;
+  max-width: 80%;
+  border: 2px solid #444;
+}
+
+#chineseText {
+  font-family: 'Noto Serif SC', serif;
+  font-size: 2rem;
+}
+
+ 
+/* Font styles for English and Chinese text */ 
+.english {
+  font-family: 'Tagesschrift', serif;
+}
+
+.chinese {
+  font-family: 'Noto Serif SC', serif;
+}
