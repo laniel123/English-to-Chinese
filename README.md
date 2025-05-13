@@ -2,6 +2,13 @@
 
 This simple web app translates English words or sentences into Chinese characters and pinyin, while providing an image and pronunciation audio.
 
+## 🧭 Project Flowchart
+
+This flowchart illustrates the complete flow of the English-to-Chinese translation app:
+
+![English to Chinese Flowchart](public/assets/flowchart.png)
+
+
 ## Future Features
 - ✍️ Input English text
 - 🈸 Get Chinese translation with pinyin
