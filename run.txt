@@ -1,12 +1,15 @@
 
+Steps to run this website 
 
+1.
 cd ../backend 
 
+2.
 python3 main.py 
 
+3.
 cd ../public 
 
-python 3 
-
+4. 
 python3 -m http.server 8000
 
