@@ -6,7 +6,7 @@ This simple web app translates English words or sentences into Chinese character
 
 This flowchart illustrates the complete flow of the English-to-Chinese translation app:
 
-![Flowchart](public/assets/flowchart.png)
+![Flowchart](flowchart.png)
 
 ## Future Features
 - ✍️ Input English text
